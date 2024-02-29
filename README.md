@@ -2,9 +2,11 @@
 
 In this work, an algorithm was built for embedding text messages into b&w images.
 
-Examples original - watermarked [block_size=4, redundancy=3, max_iter=7]:<img src="file:///home/guest/.config/marktext/images/2024-02-29-12-28-38-image.png" title="" alt="" data-align="center">
+Examples: original vs watermarked (`block_size=4, redundancy=3, max_iter=7`)
 
-<img src="file:///home/guest/.config/marktext/images/2024-02-29-12-29-51-image.png" title="" alt="" data-align="center">
+![image](https://github.com/killerxzol/watermark-svd/assets/118171509/0fac532b-4254-4269-8724-34f2dba7044f)
+
+![image](https://github.com/killerxzol/watermark-svd/assets/118171509/8ccf9f5b-acc4-45ee-a55c-b9e63c085ca7)
 
 More information in my report `watermark-svd-report.pdf`:
 

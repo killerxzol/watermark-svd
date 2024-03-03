@@ -8,6 +8,8 @@ Examples: original vs watermarked (`block_size=4, redundancy=3, max_iter=7`)
 
 ![image](https://github.com/killerxzol/watermark-svd/assets/118171509/8ccf9f5b-acc4-45ee-a55c-b9e63c085ca7)
 
+Bit error: 0.0015 (without noise), 0.0079 (with white noise).
+
 More information in my report `watermark-svd-report.pdf`:
 
 ```text
